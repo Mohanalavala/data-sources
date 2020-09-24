@@ -2,7 +2,7 @@
 There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a dataset of datasets, here are a few places to go:
 
 1. Repositories/Search
-  - AWS Datasets https://aws.amazon.com/datasets/
+  - AWS Datasets: https://aws.amazon.com/datasets/
   - [Buzzfeed Datasets](https://github.com/BuzzFeedNews)
   - [Common Crawl](http://commoncrawl.org)
   - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
@@ -54,7 +54,3 @@ There is no shortage of housed data, data repositories online, and lists of data
   - [World Bank](https://data.worldbank.org)
   - [United Nations](http://data.un.org)
 
-For those of you who are UCL students, the [UCL Library](https://www.ucl.ac.uk/library/) has a wealth of [databases](https://library-guides.ucl.ac.uk/az.php) that you have access to as well. You will need to visit the repository to view all that is avaiable, but I will point out a few here. Note a UCL login will be required to access all these datasets.
-  - [Wharton Research Data Services (WRDS)](http://wrds-web.wharton.upenn.edu/) has a number of datasets on companies, financials, markets, and more.
-  - [Proquest Central](http://libproxy.ucl.ac.uk/login?url=https://search.proquest.com/pqcentral/advanced?) for news articles
-  - [Cross-National Time-Series Data Archive (CNTS)](http://libproxy.ucl.ac.uk/login?url=https://www.databanksinternational.com/DATA_with_LINKS/) has almost 200 variables for over 200 countries, spanning most of the last century.
