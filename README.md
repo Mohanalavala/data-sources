@@ -4,7 +4,7 @@ There is no shortage of housed data, data repositories online, and lists of data
 1. Repositories/Search
  AWS Datasets: https://aws.amazon.com/datasets/
   - AWS Datasets: https://aws.amazon.com/datasets/
-  - [Buzzfeed Datasets](https://github.com/BuzzFeedNews)
+  - Buzzfeed Datasets: https://github.com/BuzzFeedNews
   - [Common Crawl](http://commoncrawl.org)
   - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
   - [Data World](https://data.world)
