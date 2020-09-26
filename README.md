@@ -3,7 +3,7 @@ There is no shortage of housed data, data repositories online, and lists of data
 
 1. Repositories/Search
   - <a href="http://example.com/" target="_blank" rel="noopener">Hello, world!</a>
-  - [AWS Datasets](https://aws.amazon.com/datasets/?target="_blank" rel="noopener")
+  - [AWS Datasets](https://aws.amazon.com/datasets/?target="_blank")
   - Buzzfeed Datasets: https://github.com/BuzzFeedNews
   - Common Crawl: http://commoncrawl.org
   - Data is Plural: https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
