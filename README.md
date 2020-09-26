@@ -2,7 +2,7 @@
 There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a dataset of datasets, here are a few places to go:
 
 1. Repositories/Search
-  - <a href="http://example.com/" target="_blank">Hello, world!</a>
+  - <a href="http://example.com/" target="_blank" rel="noopener">Hello, world!</a>
   - [AWS Datasets](https://aws.amazon.com/datasets/){:target="_blank" rel="noopener"}
   - Buzzfeed Datasets: https://github.com/BuzzFeedNews
   - Common Crawl: http://commoncrawl.org
